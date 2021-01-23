@@ -7,3 +7,5 @@
 ![image](stock.PNG)
 
 3. MNIST Classification
+
+![image](mnist.PNG)
