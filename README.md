@@ -4,6 +4,6 @@
 
 2. Stock Price Prediction
 
-![image](stock.png)
+![image](stock.PNG)
 
 3. MNIST Classification
